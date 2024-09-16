@@ -3,4 +3,4 @@ Projeto Minimal API, utlizando Mysql e ASP.NET para criar uma solução de cadas
 
 ## Estrutura da API
 ![image](https://github.com/user-attachments/assets/ac6998b7-77cb-40fe-ba70-b5a81a9d30d3)
-A API segue a estrutura demonstrada na imagem.
+<br/>A API segue a estrutura demonstrada na imagem.
