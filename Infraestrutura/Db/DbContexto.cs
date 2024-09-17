@@ -1,8 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using minimal_api.Dominio.Entidades;
 
-namespace minimal_api.Infraestrutura.Db
-{
+namespace minimal_api.Infraestrutura.Db;
+
     public class DbContexto : DbContext
     {
         private readonly IConfiguration _configuracaoAppSettings;
@@ -34,4 +34,4 @@ namespace minimal_api.Infraestrutura.Db
             }
         }
     }
-}
+

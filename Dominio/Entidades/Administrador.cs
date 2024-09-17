@@ -1,8 +1,8 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace minimal_api.Dominio.Entidades
-{
+namespace minimal_api.Dominio.Entidades;
+
     public class Administrador
     {
         [Key]
@@ -17,4 +17,4 @@ namespace minimal_api.Dominio.Entidades
         [StringLength(10)]
         public string Perfil { get; set; } = default!;
     }
-}
+
