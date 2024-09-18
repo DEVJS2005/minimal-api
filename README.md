@@ -6,7 +6,7 @@ Projeto Minimal API, utlizando Mysql e ASP.NET para criar uma solução de cadas
 <br/>A API segue a estrutura demonstrada na imagem.
 
 ## Projeto
-Estruturação do Projeto [x]<br/>
+Estruturação do Projeto - [x]<br/>
 Configuração do Swagger [x]<br/>
 Ajuste da rota Home [x]<br/>
 CRUD [x]<br/>
