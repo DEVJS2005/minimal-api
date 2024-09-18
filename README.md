@@ -14,7 +14,7 @@ Projeto Minimal API, utlizando Mysql e ASP.NET para criar uma solução de cadas
 - [ ] Configuração do Swagger para receber o JWT
 - [ ] Criação de autorização dos Perfis do sistema 
 
-- [ ] Teste de Perscistencia 
+- [ ] Teste de Persistência 
 - [ ] Teste de Request 
 
 ### Integração:
