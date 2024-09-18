@@ -6,17 +6,17 @@ Projeto Minimal API, utlizando Mysql e ASP.NET para criar uma solução de cadas
 <br/>A API segue a estrutura demonstrada na imagem.
 
 ## Projeto
-Estruturação do Projeto [x]
-Configuração do Swagger [x]
-Ajuste da rota Home [x]
-CRUD [x]
-Configuração de Token JWT []
-Configuração do Swagger para receber o JWT []
-Criação de autorização dos Perfis do sistema []
+Estruturação do Projeto [x]<br/>
+Configuração do Swagger [x]<br/>
+Ajuste da rota Home [x]<br/>
+CRUD [x]<br/>
+Configuração de Token JWT []<br/>
+Configuração do Swagger para receber o JWT []<br/>
+Criação de autorização dos Perfis do sistema []<br/>
 
-Teste de Perscistencia []
-Teste de Request []
+Teste de Perscistencia []<br/>
+Teste de Request []<br/>
 
-### Integraçã:
-Foi criado um projeto mais simples, para realizar a integração com o projeto realizar as ações da API dentro de uma aplicação. 
+### Integração:
+Foi criado um projeto mais simples, para realizar a integração com o projeto realizar as ações da API dentro de uma aplicação.<br/> 
 Simulando, assim, uma integração de aplicativos externos.
