@@ -20,3 +20,5 @@ Projeto Minimal API, utlizando Mysql e ASP.NET para criar uma solução de cadas
 ### Integração:
 Foi criado um projeto mais simples, para realizar a integração com o projeto realizar as ações da API dentro de uma aplicação.<br/> 
 Simulando, assim, uma integração de aplicativos externos.
+
+Link para o projeto: https://github.com/DEVJS2005/console_minimal_api
